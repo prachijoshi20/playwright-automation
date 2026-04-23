@@ -1,5 +1,5 @@
 # Playwright Automation Framework
-
+[![Playwright Tests](https://github.com/prachijoshi20/playwright-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com//prachijoshi20/playwright-automation/actions/workflows/playwright.yml)
 ## Tech Stack
 - Playwright (TypeScript)
 - API & UI Testing
